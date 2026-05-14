@@ -75,6 +75,9 @@ class DashboardView extends GetView<DashboardController> {
 
                             }, child: Text("Update")),
 
+                            Text("main branch"),
+                            
+
                             // IconButton(
                             //   onPressed: () {
 
