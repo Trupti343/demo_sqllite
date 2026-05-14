@@ -71,6 +71,10 @@ class DashboardView extends GetView<DashboardController> {
                           mainAxisSize: MainAxisSize.min,
                           children: [
 
+                            ElevatedButton(onPressed: () {
+
+                            }, child: Text("Update")),
+
                             // IconButton(
                             //   onPressed: () {
 
