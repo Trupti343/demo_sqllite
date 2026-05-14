@@ -75,7 +75,11 @@ class DashboardView extends GetView<DashboardController> {
 
                             }, child: Text("Update")),
 
-                            Text("main branch"),
+                            Text("main branch"), // pull from main branch
+
+                            Text("dev branch"), 
+                            Text("dev 2"), 
+                            Text("main 2"), 
                             
 
                             // IconButton(
