@@ -75,7 +75,7 @@ class DashboardView extends GetView<DashboardController> {
 
                             }, child: Text("Update")),
 
-                            Text("main branch"), // pull from main branch
+                            Text("from main branch"), // pull from main branch
 
                             Text("dev branch"), 
                             Text("dev 2"), 
